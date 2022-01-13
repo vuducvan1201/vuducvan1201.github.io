@@ -6,12 +6,12 @@ const textConfig = {
   text5: "Anh để em suy nghĩ đã ",
   text6: "Em chờ anh nói từ rất lâu rùi ý ❤",
   text7: "Lí do em thích anh đi :vvv",
-  text8: "Gửi cho anh ❤",
-  text9: "Vì anh là boii phố cổ :)))))",
+  text8: "Gửi cho anh 💖",
+  text9: "Vì anh giống như chàng khờ của em vậy 😘 😘",
   text10: "Anh biết mà ^^ Yêu em 3000",
   text11:
     "Tết nay anh qua đón em đi chơi nhaa ❤ ",
-  text12: "Okii lunn <3",
+  text12: "Okii lunn 💖",
 };
 
 $(document).ready(function () {
